@@ -10,7 +10,7 @@ const Index = ({ pets }) => {
   return (
     <>
 
-      {/* TODO: Display Hours component */}
+      {/* TODO: Display Hours component X */}
       <Hours />
 
       {/* Create a card for each pet */}
